@@ -41,4 +41,4 @@ node dist/main.js
 
 ## Autor
 
-Seu nome
+Gilmar
